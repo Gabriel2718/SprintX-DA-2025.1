@@ -1,3 +1,4 @@
+![Logo](https://drive.google.com/file/d/1_IOpZrXNu6cdZR6csInHt0DLrGQxonxM/view?usp=drive_link)
 # SprintX
 ## Desenvolvimento Ágil 2025/1
 
