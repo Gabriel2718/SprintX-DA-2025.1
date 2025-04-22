@@ -1,4 +1,5 @@
-# SprintX-DA-2025.1
+# SprintX
+## Desenvolvimento Ágil 2025/1
 
 ## Colaboradores
 Beatriz Bonametti <br>
