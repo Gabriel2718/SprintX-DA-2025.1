@@ -1,7 +1,7 @@
 # SprintX
 ## Desenvolvimento Ágil 2025/1
 
-## Colaboradores
+### Colaboradores
 Beatriz Bonametti <br>
 Gabriel Carvalho Reginato <br>
 Gabriel Hideki Tutia <br>
