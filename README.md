@@ -5,7 +5,7 @@
 ### Colaboradores
 [Beatriz Bonametti]() <br>
 [Gabriel Carvalho Reginato](https://github.com/Gabriel2718/) <br>
-[Gabriel Hideki Tutia]() <br>
+[Gabriel Hideki Tutia](https://github.com/GatutiaDev) <br>
 [João Marcelo Alves Muller]() <br>
 [Paulo Felipe Zanatta dos Santos]() <br>
 [Thayrine Santos Costa]() <br>
