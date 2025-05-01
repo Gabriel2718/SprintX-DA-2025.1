@@ -4,12 +4,13 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |  O usuário deve poder listar tarefas.                                     |  Média     |    RF12     |
-| RF02 |  O usuário deve poder definir o nível de prioridade de uma tarefa (baixa, média, alta)           |  Alta      |      RF25   |
-| RF03 |              O usuário deve poder acessar seu nível no jogo.              |  Baixa     |     -       |
-| RF04 |                 O usuário deve poder ver suas conquistas.                 |            |             |
-| RF05 |        O usuário deve poder escolher a dificuldade de suas lições.        |            |             |
-| RF06 |       O usuário deve poder determinar metas diárias a ser comprida.       |            |             |
+| RF01 |  O usuário deve poder listar tarefas.|Alta||
+| RF02 |  O usuário deve poder definir o nível de prioridade de uma tarefa (baixa, média, alta).|Alta||
+| RF03 |  O usuário deve poder deletar tarefas.|Alta||
+| RF04 |  O usuário deve poder definir um tempo limite para cada tarefa.|Média||
+| RF05 |  O usuário deve poder editar tarefas (em análise).|Média||
+| RF06 |  O usuário deve poder alterar a cor correspondente a cada nível de prioridade (padrão: verde, amarelo e vermelho, respectivamente).|Baixa||
+| RF07 |  O usuário deve poder alternar entre tema claro e escuro.|Baixa||
 
 
 <div style="text-align: center">
