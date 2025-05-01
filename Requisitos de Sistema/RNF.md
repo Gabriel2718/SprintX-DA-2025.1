@@ -10,5 +10,5 @@
 
 
 <div style="text-align: center">
-<p>Tabela 1: Requisitos Funcionais</p>
+<p>Tabela 1: Requisitos Não Funcionais</p>
 </div>
