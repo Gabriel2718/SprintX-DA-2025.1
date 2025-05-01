@@ -16,7 +16,7 @@ Uma ferramenta voltada para estudantes universitários com funcionalidades que p
 ### Documentos do repositório
 <ul type="none">
   <li>Requisitos de Sistema</li>
-  <li><a href="https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md">&emsp;RF.md</a></li>
+  <li><a href="https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Sistema/RNF.md">&emsp;RNF.md</a></li>
   <li>Requisitos de Usuário</li>
   <li><a href="https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md">&emsp;RF.md</a></li>
 </ul>
