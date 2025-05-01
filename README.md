@@ -12,3 +12,11 @@
 
 ### Descrição do Projeto
 Uma ferramenta voltada para estudantes universitários com funcionalidades que permitem ao usuário fazer anotações de tarefas e seu estágio (não iniciadas, em progresso e concluídas) assim como os quadros do Kanban.
+
+### Documentos do repositório
+<ul>
+  <li>Requisitos de Sistema</li>
+  <li>&emsp;[RNF.md](https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Sistema/RNF.md)</li></li>
+  <li>Requisitos de Usuário</li>
+  <li>&emsp;[RF.md](https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md)</li>
+</ul>
