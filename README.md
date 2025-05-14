@@ -8,7 +8,7 @@
 [Gabriel Hideki Tutia](https://github.com/GatutiaDev) <br>
 [João Marcelo Alves Muller](https://github.com/1-vercingetorix) <br>
 [Paulo Felipe Zanatta dos Santos](https://github.com/paulozanatta) <br>
-[Thayrine Santos Costa](https://github.com/thayrinescosta) <br>
+[Thayrine Santos Costa]((https://github.com/ThayrineSantosCosta)) <br>
 
 ### Descrição do Projeto
 Uma ferramenta voltada para estudantes universitários com funcionalidades que permitem ao usuário fazer anotações de tarefas e seu estágio (não iniciadas, em progresso e concluídas) assim como os quadros do Kanban.
