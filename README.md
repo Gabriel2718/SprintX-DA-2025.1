@@ -14,11 +14,13 @@
 Uma ferramenta voltada para estudantes universitários com funcionalidades que permitem ao usuário fazer anotações de tarefas e seu estágio (não iniciadas, em progresso e concluídas) assim como os quadros do Kanban.
 
 ### Documentos do repositório
+&emsp;[RNF.md](https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Sistema/RNF.md)
+&emsp;[RF.md](https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md)
 <ul type="none">
   <li>/Requisitos de Sistema</li>
-  <li>&emsp;[RNF.md](https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Sistema/RNF.md)</li>
+  <li></li>
   <li>/Requisitos de Usuário</li>
-  <li>&emsp;[RF.md](https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md)</li>
+  <li</li>
 </ul>
 
 #### [Protótipo Vertical](https://www.figma.com/design/JqJa5nbbGmAVoStH100sKN/SprintX?node-id=0-1&p=f&t=IYtNvMRoZPMs0LkY-0)
