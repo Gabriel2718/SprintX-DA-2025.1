@@ -20,3 +20,5 @@ Uma ferramenta voltada para estudantes universitários com funcionalidades que p
   <li>/Requisitos de Usuário</li>
   <li>&emsp;<a href="https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md">RF.md</a></li>
 </ul>
+
+#### [Protótipo Vertical](https://www.figma.com/design/JqJa5nbbGmAVoStH100sKN/SprintX?node-id=0-1&p=f&t=IYtNvMRoZPMs0LkY-0)
