@@ -17,7 +17,8 @@ Uma ferramenta voltada para estudantes universitários com funcionalidades que p
 /Requisitos de Sistema <br>
 &emsp;[RNF.md](https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Sistema/RNF.md)<br>
 /Requisitos de Usuário <br>
+&emsp;[HistoriasUsuario.md](https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Usuário/HistoriasUsuario.md)
 &emsp;[RF.md](https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md)<br>
-Inspeção dos Requisitos Defeitos Encontrados - SprintX.pdf <br>
+[Inspeção dos Requisitos Defeitos Encontrados - SprintX.pdf](https://github.com/Gabriel2718/SprintX-DA-2025.1/blob/main/Inspeção%20dos%20Requisitos%20Defeitos%20Encontrados%20-%20SprintX.pdf) <br>
 
 #### [Protótipo Vertical](https://www.figma.com/design/JqJa5nbbGmAVoStH100sKN/SprintX?node-id=0-1&p=f&t=IYtNvMRoZPMs0LkY-0)
