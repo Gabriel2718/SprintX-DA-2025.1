@@ -1,4 +1,4 @@
-![Logo](https://github.com/Gabriel2718/trabalho-desenvolvimento_agil/blob/main/SprintX-Logo.png)
+<center>![Logo](https://github.com/Gabriel2718/trabalho-desenvolvimento_agil/blob/main/SprintX-Logo.png)</center>
 # SprintX
 ## Desenvolvimento Ágil 2025/1
 
