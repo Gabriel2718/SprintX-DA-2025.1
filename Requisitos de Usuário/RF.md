@@ -2,7 +2,7 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |  O usuário deve poder listar tarefas.|Alta||
+| RF01 |  O usuário deve poder listar e adicionar tarefas.|Alta||
 | RF02 |  O usuário deve poder definir o nível de prioridade de uma tarefa (baixa, média, alta).|Alta| RF01 |
 | RF03 |  O usuário deve poder deletar tarefas.|Alta| RF01 |
 | RF04 |  O usuário deve poder definir um tempo limite para cada tarefa.|Média| RF01 |
