@@ -1,6 +1,6 @@
 # 1. Histórias de Usuário
 
-| ID   |                                 Requisito                                 | Critérios de Aceitação | Prioridade | RF/RNF Relacionados | History Point |
+| ID   |                                 Requisito                                 | Critérios de Aceitação | Prioridade | RF/RNF Relacionados | History Point (1 - 10) |
 | :--: | :-----------------------------------------------------------------------: | :--------------------: | :--------: | :-----------------: | :------------:|
 | US01 | Como usuário, eu quero criar novas tarefas para poder registrar e acompanhar minhas atividades.| 1. Deve haver um botão visível para adicionar uma nova tarefa. <br>2. Ao clicar no botão, deve haver um campo para a descrição da tarefa. <br>3. O campo de título da tarefa deve ser obrigatório. <br>4. Após salvar, a nova tarefa deve aparecer imediatamente na lista de tarefas.|Alta|RF01||
 | US02 | Como usuário, eu quero deletar tarefas para remover atividades que não me são mais necessárias.| 1. A exclusão de tarefas deve ser feita usando o deslize na tela.|Alta|RF02||
